@@ -1,1 +1,10 @@
-
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Anwar"
+  given-names: "Md Sayeed"
+  orcid: "https://orcid.org/0000-0002-3846-2601"
+title: "A Two-Dimensional Swarmalator Model with Higher-Order Interactions"
+version: 1.0.1
+date-released: 2025-06-26
+url: "https://github.com/imsayeed/swarmalators_torus_higher_order_interactions"
